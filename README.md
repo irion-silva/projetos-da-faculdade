@@ -1,5 +1,5 @@
 # Projetos da Faculdade
-## Irion Silva  
+## Irion Silva ---
 Graduando em **Análise e Desenvolvimento de Sistemas**.  
 🎓Em curso.  
 Desde 2021, até os dias atuais.  
@@ -9,5 +9,5 @@ Pela Universidade Anhanguera.
 [ 2022.05 ]  
 Meu primeiro contato com a Linguagem python, onde aprendi o básico da sintaxe da linguagem.  
 
-[Meu códigos](https://github.com/irion-silva)
+[Meu códigos](https://github.com/irion-silva/projetos-da-faculdade/tree/main/linguagem-de-programacao)
   
